@@ -38,6 +38,7 @@ Hello, My name Franky Octo Sitanggang, I studied at the Department of Informatio
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/frankyocto)
 [![Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/OctoFranky)
 [![Instagram](https://img.shields.io/badge/--instagram?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/sitanggangfranky/)
+[![YouTube](https://img.shields.io/badge/--youtube?label=YouTube&logo=YouTube&style=social)](https://www.youtube.com/channel/UCSAhGZbejw4WhcDHF1k7S2g)
 
 <hr>
 
