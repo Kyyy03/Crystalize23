@@ -31,7 +31,10 @@ _____________|','   ///_/-------------/   |
 Hello, My name Franky Octo Sitanggang, I studied at the Department of Information Systems at STMIK Mikroskil. I like programming language from my friend who often do web projects and I learn a lot of programming language from him. Besides fond of coding, I also had a hobby of playing football.
 
 ![GitHub Follow](https://img.shields.io/github/followers/Crystalize23.svg?style=social&label=Follow)
+
 ![GitHub Star](https://img.shields.io/github/stars/Crystalize23?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
+
+
 
 📫 How to reach me
 
